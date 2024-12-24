@@ -1,0 +1,11 @@
+[book]
+authors = ["dDostalker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CTFPython逆向入门"
+github_repo = "https://github.com/your-username/your-repository"
+
+[output.html]
+git-repository-url = "https://github.com/"
+git-repository-icon = "fa-github"
