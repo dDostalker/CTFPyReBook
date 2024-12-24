@@ -15,7 +15,7 @@
 
 ## idc/idpython类
 
-1. [自动分析pyd中存在的变量并生成对应mstate脚本](./idpython/create_mstate.py)
+1. 自动分析pyd中存在的变量并生成对应mstate脚本——idpython/create_mstate.py
 
 ## ida插件类
 
