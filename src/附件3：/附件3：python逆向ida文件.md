@@ -1,6 +1,6 @@
 # python逆向ida文件、脚本、插件🚧
 
-收集了python逆向所用的脚本、插件、工具以及ida导出信息等等，可以在github页面的src/附件里找到对应文件/xia'z
+收集了python逆向所用的脚本、插件、工具以及ida导出信息等等，可以在github页面的src/附件里找到对应文件下载
 
 ## 头文件类
 
@@ -22,3 +22,13 @@
 1. 
 
 ## 其他工具类
+
+1. pycdc [zrax/pycdc: C++ python bytecode disassembler and decompiler (github.com)](https://github.com/zrax/pycdc)
+
+2. uncompyle6 
+
+   ```
+   pip install uncompyle6
+   ```
+
+3. pyinstxtractor.py [extremecoders-re/pyinstxtractor: PyInstaller Extractor (github.com)](https://github.com/extremecoders-re/pyinstxtractor)

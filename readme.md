@@ -8,13 +8,13 @@
 
  当然这本书仅仅是写好了一个框架，还有很多内容还并没有很好的完善，加上作者的能力有限，不能做到面面俱到，在这里还麻烦各位师傅多多提交issue和pr，共同构造这本CTFRePyBook。
 
-# 网页版查看方法
+# 网页版🌏
 
-网页版入口↓↓↓↓↓↓↓↓↓↓↓↓
+为了各位师傅们能更简单的看到这篇教程，我将这篇教程放到的github page上，欢迎各位师傅！
 
-[导语——为什么要进行python逆向 - CTFPython逆向入门 (ctfpyrebook.github.io)](https://ctfpyrebook.github.io/CTFPyReBook/index.html)
+[CTFPyReBook~](https://ctfpyrebook.github.io/CTFPyReBook/index.html)
 
-# 本地构建方法
+# 本地构建方法📕
 
 本书是由mdbook工具实现的，可以从github下载mdbook工具在clone下来的目录里直接运行
 
@@ -22,11 +22,12 @@
 mdbook build
 ```
 
-即可完成本地的构建
+即可完成本地的构建，具体使用可以看mdbook的教程
 
 # 贡献方法🖊
 
-本书欢迎各位师傅们贡献，师傅们只需要在src内编写markdown即可，具体使用方法参考mdbook教程，也是十分的简单
+本书欢迎各位师傅们贡献，师傅们只需要在仓库内的src文件夹内编写markdown文件即可，然后把对应的markdown放入sumary即可，具体使用方法参考mdbook教程，也是十分的简单的。
 
 [指南 - mdBook 文档 (hellowac.github.io)](https://hellowac.github.io/mdbook-doc-zh/zh-cn/index.html)
 
+## QQ群
